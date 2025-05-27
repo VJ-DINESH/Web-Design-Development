@@ -1,4 +1,4 @@
-![dark_mode](https://github.com/user-attachments/assets/f008b12c-8645-4667-a520-34129bfc44a7)# Simple Blog Page
+# Simple Blog Page
 
 This is a simple and responsive blog page built using Bootstrap 5, featuring:
 
